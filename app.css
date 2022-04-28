@@ -3,12 +3,12 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: rgb(10, 245, 29);
+    background-color: rgb(47, 36, 68);
 }
 
 h1 {
     font-size: 15rem;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 .letter {
