@@ -3,15 +3,15 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: rgb(47, 36, 68);
+    background-color: olive;
 }
 
 h1 {
-    font-size: 15rem;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20rem;
+    font-family: cursive;
 }
 
 .letter {
     
-    color: hotpink;
+    color: rgb(167, 37, 102);
 }
